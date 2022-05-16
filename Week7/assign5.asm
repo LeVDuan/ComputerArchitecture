@@ -1,4 +1,4 @@
-#Laboratory Exercise 7 Home Assignment 5
+#Laboratory Exercise 7 Home Assignment 5 
 .data
 message_max: .asciiz "Largest: "
 message_index: .asciiz ", "
